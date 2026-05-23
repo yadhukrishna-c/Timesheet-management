@@ -1,8 +1,8 @@
-# ⏱ Timesheet Management System
+# Timesheet Management System
 
 A full-stack MERN application for managing employee work hours, projects, and real-time productivity tracking.
 
-## 🚀 Live Features
+##  Live Features
 
 - 🔐 JWT-based authentication with role-based access (Admin & Employee)
 - 👥 Admin dashboard to manage employees and projects
@@ -14,7 +14,7 @@ A full-stack MERN application for managing employee work hours, projects, and re
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 ### Backend
 - **Node.js** — Runtime environment
