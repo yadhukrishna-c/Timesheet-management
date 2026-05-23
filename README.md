@@ -29,6 +29,3 @@ A full-stack MERN application for managing employee work hours, projects, and re
 - **React Router DOM** — Client-side routing
 - **Axios** — HTTP requests
 - **Context API** — Global state management
----
-
-## 📁 Project Structure
